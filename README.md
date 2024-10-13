@@ -4,8 +4,9 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/vineet-gupta2280/) 
+
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2301A3E0.svg?logo=kaggle&logoColor=black)](https://www.kaggle.com/vineetgupta2023)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2301A3E0.svg?logo=kaggle&logoColor=black)](https://www.kaggle.com/vineetgupta2023)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/vineetcoder5/)
 
 
