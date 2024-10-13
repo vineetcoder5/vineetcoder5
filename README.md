@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: AI-powered applications and research projects involving NLP and multimodal data.<br>👯 I’m looking to collaborate on: AI research, Kaggle competitions, and open-source machine learning projects.<br>🤝 I’m looking for help with: Efficient large model deployments.<br>🌱 I’m currently learning: Advanced NLP techniques and fine-tuning transformer-based models.<br>⚡ Fun fact: I thrive on late-night hackathons and breaking down complex problems into creative AI solutions.t
+🔭 I’m currently working on: I am currently working on Kaggle competitions and participating in hackathons.<br>👯 I’m looking to collaborate on: AI research, Kaggle competitions, and open-source machine learning projects.<br>🤝 I’m looking for help with: Efficient large model deployments.<br>🌱 I’m currently learning: Advanced NLP techniques and fine-tuning transformer-based models.<br>⚡ Fun fact: I thrive on late-night hackathons and breaking down complex problems into creative AI solutions.t
 
 
 ## 🌐 Socials:
